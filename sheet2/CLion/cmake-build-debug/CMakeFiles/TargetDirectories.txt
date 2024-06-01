@@ -1,0 +1,3 @@
+C:/Users/ziadm_gomaewa/Desktop/Year4_term2matirial/FCAI-CS-Final-Semester/Subjects/Selected Topics in Computer Science-2/other/sheet2/CLion/cmake-build-debug/CMakeFiles/CLion.dir
+C:/Users/ziadm_gomaewa/Desktop/Year4_term2matirial/FCAI-CS-Final-Semester/Subjects/Selected Topics in Computer Science-2/other/sheet2/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ziadm_gomaewa/Desktop/Year4_term2matirial/FCAI-CS-Final-Semester/Subjects/Selected Topics in Computer Science-2/other/sheet2/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
